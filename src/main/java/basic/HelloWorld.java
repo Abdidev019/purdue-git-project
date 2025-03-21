@@ -1,7 +1,7 @@
 package basic;
 
 public class HelloWorld {
-//change from dev2 (conflict) demo
+//from dev1 (conflict management) dev2 (conflict) demo
 	public static void main(String[] args) {
 		System.out.println("Hello Abdi");
 
