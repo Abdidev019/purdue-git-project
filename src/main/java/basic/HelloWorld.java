@@ -6,11 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello Abdi");
 
 	}
-<<<<<<< Updated upstream
-	// from b1 branch | stash form dev 2
-=======
-	// from b1 branch stash demo from x1
->>>>>>> Stashed changes
+
+	// from b1 branch | stash form dev 2 and demo from x1
 	public void m1(){
 		System.out.println("from m1");
 	}
