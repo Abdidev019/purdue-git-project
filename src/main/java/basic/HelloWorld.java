@@ -15,5 +15,9 @@ public class HelloWorld {
 		System.out.println("from m2");
 }
 	public void m3(){
+<<<<<<< Updated upstream
 		System.out.println("from y11")
+=======
+		System.out.println("from x11")
+>>>>>>> Stashed changes
 }
